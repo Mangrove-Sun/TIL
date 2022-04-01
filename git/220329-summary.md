@@ -7,7 +7,7 @@
 
 
 ## Git Process Flow
-[git process flow](./gitprocessflow.png)   
+![git process flow](/gitprocessflow.png)   
 `$ git add` 변경사항을 commit하고 싶은 걸 stage라는 앞접시에 덜고   
 `$ git commit` 앞접시에 덜어놓은 것에 변경사항의 스냅샷을 찍는다
 
