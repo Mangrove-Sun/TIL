@@ -12,9 +12,9 @@ $ npm install -g hexo cli
 $ hexo init ghblog
 ```
 3-1. ghblog에 설치된 기본 파일들   
-![hexo-basic-files](/git/hexoblog-2.png)
+![hexo-basic-files](/git/hexoblog-2.png)   
 3-2. hexo관련 명령어는 `_config.yml` 파일이 있는 ghblog 폴더 안에서 한다.   
-![config-file](/git/hexoblog-3.png)
+![config-file](/git/hexoblog-3.png)   
 4. 위에서 `$ hexo init [폴더명]` 으로 만들어진 폴더로 들어가 위 명령어를 실행해 hexo에 필요한 파일들을 설치
 ```shell
 $ npm install
@@ -23,8 +23,8 @@ $ npm install
 ```shell
 $ hexo new post "My first post"
 ```
-6. vim 편집기로 My-first-post.md 파일을 작성
-![my-first-post-edit](/git/hexoblog-4.png)
+6. vim 편집기로 My-first-post.md 파일을 작성   
+![my-first-post-edit](/git/hexoblog-4.png)   
 6-1. 내용은 위처럼 `---` 아래에 작성하고 `markdown` 문법으로 작성한다.   
 7. `$ hexo server` 로 로컬 서버 구동하여 작성한 블로그 페이지를 볼 수 있다.(ctrl+C를 누르면 서버 닫기)   
 ![server-open](/git/hexoblog-5.png)
