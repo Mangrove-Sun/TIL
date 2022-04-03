@@ -38,5 +38,5 @@ $ npm install hexo-deployer-git --save
 ```shell
 $ hexo clean && hexo deploy
 ```
-    - hexo clean - public 폴더의 내용을 찌꺼기 까지 삭제하고 업데이트 및 새파일 설치
-    - &&는 앞에 명령어 성공하면 다음 명령어 실행
+   - hexo clean - public 폴더의 내용을 찌꺼기 까지 삭제하고 업데이트 및 새파일 설치
+   - &&는 앞에 명령어 성공하면 다음 명령어 실행
